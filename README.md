@@ -1,9 +1,10 @@
 # Convert movie into gif
 
-
+**[English]**  
 This script converts movies into gif file. This demo was created based on MATLAB official document. 
 
-
+**[Japanese]**  
+このファイルでは、動画ファイルをGIFに変換します。公式ドキュメントよりも画像の領域などの各種設定が気軽に変更可能となっております。
 
 
 **Reference**
