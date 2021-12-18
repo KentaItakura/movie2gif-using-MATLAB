@@ -1,9 +1,10 @@
 [![View movie2gif on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96394-movie2gif)
 # Convert movie into gif
 
+**[English]**  
 This script converts movies into gif file. This demo was created based on MATLAB official document. 
 
-[Japanese]  
+**[Japanese]**  
 このファイルでは、動画をGIFに変換します
 
 What you can do in this script are 
